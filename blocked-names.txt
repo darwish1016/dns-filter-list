@@ -1,0 +1,40 @@
+# ===== Gambling block list (edited automatically; no password needed) =====
+# Name patterns: block every numbered variant of the sites in the Facebook group
+*sctterjl*
+*goldwinph*
+*phmajesty*
+*okpinas*
+*moonpinas*
+*tarjl*
+*wildjl*
+*[0-9]jili*
+*jili[0-9]*
+*jiliph*
+*tayoph*
+taras3*
+# General gambling keywords
+*casino*
+*sabong*
+*betting*
+*sportsbook*
+# Sites found in the Facebook group (each line also covers all subdomains)
+147wildjl.com
+1777jili.com
+39phmajesty.xyz
+58tarjl.com
+68tarjl.com
+83phmajesty.xyz
+857wildjl.com
+88tarjl.com
+90sctterjl.xyz
+93moonpinas.xyz
+94sctterjl.xyz
+96goldwinph.xyz
+goldwinph77.xyz
+okpinas01.xyz
+okpinas4.xyz
+sctterjl99.xyz
+taras35fg.com
+taras368.com
+tayoph20.xyz
+# Added by the 2-hour Facebook check
